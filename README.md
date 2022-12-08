@@ -49,5 +49,5 @@ My usual things to improve I forget some basic stuff such as how to import stuff
 
 ## Author
 
-- Website - [Ian Paul Buenconsejo](https://github.com/ianbuen)
+- Github - [@ianbuen](https://github.com/ianbuen)
 - Frontend Mentor - [@ianbuen](https://www.frontendmentor.io/profile/ianbuen) 
